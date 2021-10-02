@@ -1,2 +1,2 @@
 # icoder - Haven for coders
-icoder website made by Mr.Piyush
+icoder website made by Mr.Piyush and it is also responsive
